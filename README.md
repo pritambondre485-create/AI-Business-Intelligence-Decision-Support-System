@@ -29,6 +29,7 @@ This project aims to transform raw retail data into meaningful insights and supp
 - Python
 - Pandas
 - NumPy
+- sql
 - Scikit-learn
 - Matplotlib
 - Seaborn
