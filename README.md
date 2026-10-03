@@ -128,9 +128,3 @@ The platform helps businesses:
 - Cloud deployment
 - API-based data ingestion
 - Automated business alerts
-
-## 11. Project Author
-
-Computer Engineering Student
-
-AI/ML | Data Science | Data Engineering | Business Intelligence
